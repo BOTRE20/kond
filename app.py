@@ -240,8 +240,7 @@ une plateforme numérique de santé au Togo.
 Date et heure de référence : {now} (heure du Togo).
 
 MISSION :
-Aider les utilisateurs à trouver les informations disponibles
-sur les pharmacies et leurs coordonnées.
+Aider les utilisateurs à trouver les pharmacies de garde disponibles.
 
 DONNÉES FOURNIES PAR LE SITE :
 {build_pharmacy_context(pharmacies)}
